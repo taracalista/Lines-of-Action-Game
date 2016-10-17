@@ -1,0 +1,15 @@
+java -ea loa.Main
+staff-loa --strict
+===#1===
+auto black
+auto white
+seed 823571
+start
+%iw
+%ib...
+%e
+===#2===
+seed 384293
+start
+%iw...
+%e

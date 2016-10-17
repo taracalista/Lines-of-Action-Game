@@ -1,0 +1,9 @@
+java -ea loa.Main 
+None
+===#1===
+auto Black
+auto White
+seed 23123
+start
+%bw
+%e

@@ -1,0 +1,9 @@
+java -ea loa.Main
+None
+===#1===
+manual White
+start
+dump
+set c3 b
+dump
+quit
